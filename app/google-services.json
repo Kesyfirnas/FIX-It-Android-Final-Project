@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "422435736668",
+    "project_id": "fixit-48da4",
+    "storage_bucket": "fixit-48da4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:422435736668:android:aacf903194caf6eb93ea99",
+        "android_client_info": {
+          "package_name": "com.example.fixitapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "422435736668-rgdpuo6dshj5bkh4ouoigju9pa0mpujc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fixitapplication",
+            "certificate_hash": "13cfb673b06b8fbcb894b4e6e3b58407c93da487"
+          }
+        },
+        {
+          "client_id": "422435736668-5pbe8jubl2p17t7u20s7ijvjclrmgquq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPROULTovOuoZ-h9ufjyo7cDm5j_vj84w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "422435736668-5pbe8jubl2p17t7u20s7ijvjclrmgquq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
